@@ -8,7 +8,6 @@ from dateutil import parser
 import json
 import difflib
 import traceback
-git
 BOT_TOKEN = "7803447059:AAFctdVYOdFjgBgo_umhxI-JOh90GWloqGk"
 url_base = "https://api-football-v1.p.rapidapi.com/v3"
 
